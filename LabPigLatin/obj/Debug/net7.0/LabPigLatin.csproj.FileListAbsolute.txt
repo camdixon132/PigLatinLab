@@ -1,0 +1,15 @@
+/Users/camerondixon/Projects/LabPigLatin/LabPigLatin/bin/Debug/net7.0/LabPigLatin
+/Users/camerondixon/Projects/LabPigLatin/LabPigLatin/bin/Debug/net7.0/LabPigLatin.deps.json
+/Users/camerondixon/Projects/LabPigLatin/LabPigLatin/bin/Debug/net7.0/LabPigLatin.runtimeconfig.json
+/Users/camerondixon/Projects/LabPigLatin/LabPigLatin/bin/Debug/net7.0/LabPigLatin.dll
+/Users/camerondixon/Projects/LabPigLatin/LabPigLatin/bin/Debug/net7.0/LabPigLatin.pdb
+/Users/camerondixon/Projects/LabPigLatin/LabPigLatin/obj/Debug/net7.0/LabPigLatin.csproj.AssemblyReference.cache
+/Users/camerondixon/Projects/LabPigLatin/LabPigLatin/obj/Debug/net7.0/LabPigLatin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camerondixon/Projects/LabPigLatin/LabPigLatin/obj/Debug/net7.0/LabPigLatin.AssemblyInfoInputs.cache
+/Users/camerondixon/Projects/LabPigLatin/LabPigLatin/obj/Debug/net7.0/LabPigLatin.AssemblyInfo.cs
+/Users/camerondixon/Projects/LabPigLatin/LabPigLatin/obj/Debug/net7.0/LabPigLatin.csproj.CoreCompileInputs.cache
+/Users/camerondixon/Projects/LabPigLatin/LabPigLatin/obj/Debug/net7.0/LabPigLatin.dll
+/Users/camerondixon/Projects/LabPigLatin/LabPigLatin/obj/Debug/net7.0/refint/LabPigLatin.dll
+/Users/camerondixon/Projects/LabPigLatin/LabPigLatin/obj/Debug/net7.0/LabPigLatin.pdb
+/Users/camerondixon/Projects/LabPigLatin/LabPigLatin/obj/Debug/net7.0/LabPigLatin.genruntimeconfig.cache
+/Users/camerondixon/Projects/LabPigLatin/LabPigLatin/obj/Debug/net7.0/ref/LabPigLatin.dll
